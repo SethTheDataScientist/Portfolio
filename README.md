@@ -29,18 +29,9 @@ https://seththedatascientist.shinyapps.io/QB_Rolling_Averages/
 
 
 
-Collection of Defense efficiency and playstyle metrics for the NFL
+Collection of Offense & Defense efficiency and playstyle metrics for the NFL
 
-https://seththedatascientist.shinyapps.io/Defense_Metrics/
-
-
-
-
-Collection of Offense efficiency and playstyle metrics for the NFL
-
-https://seththedatascientist.shinyapps.io/Offense_Metrics/
-
-
+https://seththedatascientist.shinyapps.io/Offense_And_Defense_Metrics/
 
 
 Timeline of play measuring efficiency metrics, Quarterback season-long rankings, and team tier plots
