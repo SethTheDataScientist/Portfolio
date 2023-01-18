@@ -27,6 +27,8 @@ Rolling averages of composite metrics for Quarterback play for NFL and College Q
 https://seththedatascientist.shinyapps.io/QB_Rolling_Averages/
 
 
+General Manager's Toolbox: A collection of tools to help analyze a team's offseason
+https://seththedatascientist.shinyapps.io/General_Manager_Toolbox/
 
 
 Collection of Offense & Defense efficiency and playstyle metrics for the NFL
